@@ -5,5 +5,6 @@ import nominas.generador.SubApGenFT;
 public class Main {
     public static void main(String[] args) {
         SubApGenFT.principal();
+        // Principal/src/nominas/data/,test.csv,50
     }
 }
